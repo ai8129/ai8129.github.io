@@ -1,6 +1,7 @@
 @charset “utf-8”;
 
-header {   }
-h1 { font-size:20px; color:red; background-color:black; }
-article {  }
-footer {  }
+header { width:90%; height:20%; background:#cccccc; font-color:#000000; }
+h1 { font-size:40px; font-color:red; }
+p { font-size:20px; font-color:black; }
+article { width;90%; height:70%; background:#999999; font-color:#000000; }
+footer { width:90%; height:10%; background:#cccccc; font-color:#000000; }
